@@ -1,4 +1,4 @@
----
+﻿---
 tags: [SOAP]
 projects: [spring-ws]
 ---
@@ -23,7 +23,9 @@ projects: [spring-ws]
 :source-highlighter: prettify
 :project_id: gs-soap-service
 
-This guide walks you through the process of creating a SOAP-based web service server with Spring.
+This guide walks you through the process of creating a SOAP-based web service server with Spring in Weblogic 12c.
+
+Application WSDL deploys to http://localhost:7001/gs-producing-web-service/ws/countries.wsdl
 
 == What you'll build
 
